@@ -1,10 +1,10 @@
 # Generating Clients from UAE Real Estate
-### A 5-Page Strategic Study for Mahimul Hoque / Red Elevators
+### A Five-Part Strategic Study for Mahimul Hoque / Red Elevators
 *Prepared 19 September 2026 · All currency in AED unless marked USD*
 
 ---
 
-## Page 1 — The Market: Why UAE Real Estate Is the Right Beachhead
+## Part 1 — The Market: Why UAE Real Estate Is the Right Beachhead
 
 **The money is real, and it is growing.**
 
@@ -40,7 +40,7 @@ You are not entering this market cold. **You already have two real-estate proof 
 
 ---
 
-## Page 2 — Who Actually Buys Marketing Here
+## Part 2 — Who Actually Buys Marketing Here
 
 Not all UAE real estate money is reachable. Segment before you spend a single hour on outreach.
 
@@ -78,9 +78,9 @@ Not all UAE real estate money is reachable. Segment before you spend a single ho
 
 ---
 
-## Page 3 — The Diagnostic Wedge: What Is Actually Broken
+## Part 3 — The Diagnostic Wedge: What Is Actually Broken
 
-This page is your product. Every item below is a real, checkable failure mode in UAE real estate ad accounts, and each one is a line in your audit.
+This part is your product. Every item below is a real, checkable failure mode in UAE real estate ad accounts, and each one is a line in your audit.
 
 ### 1. The WhatsApp attribution black hole — *your core wedge*
 In the UAE, WhatsApp is not a channel, it is **the** conversion endpoint. Ads drive to WhatsApp, agents qualify on WhatsApp, deals progress on WhatsApp. Yet in most accounts:
@@ -120,7 +120,7 @@ With up to three brokers legally marketing the same listing, the same buyer enqu
 
 ---
 
-## Page 4 — The Offer: Productize Before You Prospect
+## Part 4 — The Offer: Productize Before You Prospect
 
 Do not sell "media buying." Dubai is saturated with people selling media buying at USD 300/month. Sell the diagnosis.
 
@@ -151,7 +151,7 @@ A Dubai brokerage's *single* off-plan commission commonly exceeds your entire an
 
 ---
 
-## Page 5 — The 90-Day Client Acquisition Plan
+## Part 5 — The 90-Day Client Acquisition Plan
 
 ### Channel 1 — LinkedIn (primary; you already have the asset and the cadence)
 - **Build a target list of 150** mid-size Dubai brokerages (Segment C) and 40 UAE marketing agencies (Segment E). Sources: DLD's licensed brokerage list, Bayut and Property Finder agency directories, LinkedIn company search filtered to Real Estate, UAE, 11–50 employees.
